@@ -3,6 +3,8 @@
 #pragma once
 
 #include "CoreMinimal.h"
+#include "Engine/DataTable.h"
+#include "EntityData.h"
 #include "GameFramework/Character.h"
 #include "FinalUnrealCharacter.generated.h"
 
